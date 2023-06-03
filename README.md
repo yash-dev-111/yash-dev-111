@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Yash Barhate<br>👀 Experienced Full Stack Developer with Expertise in MERN Stack and a Passion for Crafting Seamless Web Applications<br>🌱 A constant learner and a Web Development Enthusiast<br>📫 How to reach me email: y.barhate111@gmail.com<br>🌱Certified in MERN Full Stack Developement Specialization<br>
+👋 Hi, I’m Yash Barhate<br>👀 Experienced Full Stack Developer with Expertise in MERN Stack and a Passion for Crafting Seamless Web Applications<br>🌱 A constant learner and a Web Development Enthusiast<br>📫 Reach me at: y.barhate111@gmail.com<br>🌱Certified in MERN Full Stack Developement Specialization<br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
