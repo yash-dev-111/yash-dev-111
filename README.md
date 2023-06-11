@@ -1,3 +1,6 @@
+<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="500"  >
+
+
 # 💫 About Me:
 👋 Hi, I’m Yash Barhate<br>👀 Experienced Full Stack Developer with Expertise in MERN Stack and a Passion for Crafting Seamless Web Applications<br>🌱 A constant learner and a Web Development Enthusiast<br>📫 Reach me at: y.barhate111@gmail.com<br>🌱Certified in MERN Full Stack Developement Specialization<br>
 <div align="center">
